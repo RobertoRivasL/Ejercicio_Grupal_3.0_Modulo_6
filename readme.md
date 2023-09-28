@@ -20,18 +20,18 @@ Hasta el momento se han definido las siguientes funcionalidades en el sistema: |
 | 9 | Editar Profesional | Formulario que permite modificar los datos | de un usuario de tipo Profesional | Administrativo |
 
 
-| 10 | Listado Visitas | $\begin{array}{l}\text { Lista de todas las visitas realizadas a } \\ \text { cada uno de los clientes. Además, } \\ \text { posee un formulario que permite } \\ \text { agregar nuevas visitas a sistema. }\end{array}$ | Profesional |
+| 10 | Listado Visitas | Lista de todas las visitas realizadas a \\ cada uno de los clientes. Además,  \\ posee un formulario que permite  \\  agregar nuevas visitas a sistema. | Profesional |
 | :---: | :---: | :---: | :---: |
 | 11 | Responder checklist | Listado de chequeos de una visita. | Profesional |
-| 12 | Listado Pago | $\begin{array}{l}\text { Lista de todos los pagos realizados por } \\ \text { los clientes. }\end{array}$ | Administrativo |
+| 12 | Listado Pago | Lista de todos los pagos realizados por \\ los clientes. | Administrativo |
 | 13 | Crear Pago | Permitirá agregar un pago al sistema. | Administrativo |
-| 14 | Listado Asesorías | $\begin{array}{l}\text { Lista con las asesorías realizadas hasta } \\ \text { el momento. }\end{array}$ | Profesional |
-| 15 | Crear Asesorías | $\begin{array}{l}\text { Contiene un formulario para agregar } \\ \text { una nueva asesoría. }\end{array}$ | Profesional |
+| 14 | Listado Asesorías | Lista con las asesorías realizadas hasta  \\ el momento. | Profesional |
+| 15 | Crear Asesorías | Contiene un formulario para agregar \\ \text { una nueva asesoría. | Profesional |
 | 16 | Reportes | Despliega reportes específicos. | Profesional |
-| 17 | $\begin{array}{l}\text { Administrar } \\ \text { Asistentes }\end{array}$ | $\begin{array}{l}\text { Administración de asistentes a una } \\ \text { capacitación; incluye listarlos, poder } \\ \text { agregar asistentes y eliminarlos. }\end{array}$ | Cliente |
-| 18 | Login | $\begin{array}{l}\text { Contendrá un acceso a un usuario al } \\ \text { portal a través de un RUT de usuario y } \\ \text { una clave. }\end{array}$ | $\begin{array}{l}\text { Cliente } \\ \text { Administrativo } \\ \text { Profesional } \\ \end{array}$ |
-| 19 | Gestionar accidentes | $\begin{array}{l}\text { Listado con todos los accidentes } \\ \text { registrados en plataforma. Además, } \\ \text { permite editarlos, agregar uno nuevo y } \\ \text { eliminarlos. En esta sección cada } \\ \text { cliente administra sus propios } \\ \text { accidentes. }\end{array}$ | Cliente |
-| 20 | Administrar chequeos | $\begin{array}{l}\text { Permite mostrar los distintos } \\ \text { chequeos realizados a cada cliente en } \\ \text { una visita a terreno, y permite agregar } \\ \text { uno nuevo, y cambiar su estado. }\end{array}$ | Administrativo |
+| 17 | Administrar Asistentes | Administración de asistentes a una  \\ capacitación; incluye listarlos, poder  \\ agregar asistentes y eliminarlos. | Cliente |
+| 18 | Login | Contendrá un acceso a un usuario al  \\ portal a través de un RUT de usuario y  \\ una clave. | Cliente \\ Administrativo  \\ Profesional  \\ |
+| 19 | Gestionar accidentes | Listado con todos los accidentes \\ registrados en plataforma. Además,  \\permite editarlos, agregar uno nuevo y \\ eliminarlos. En esta sección cada cliente administra sus propios \\ accidentes. | Cliente |
+| 20 | Administrar chequeos | Permite mostrar los distintos  \\ chequeos realizados a cada cliente en \\ una visita a terreno, y permite agregar \\ uno nuevo, y cambiar su estado. | Administrativo |
 
 En los módulos anteriores de este curso se crearon vistas para algunos de los casos de uso indicados en el listado anterior.
 
@@ -70,9 +70,10 @@ Crear un proyecto MVC con Spring Tool Suite (STS)
 https://www.youtube.com/watch?v=eMG9qi061D8
 
 
+
+
 ![Static Badge](https://img.shields.io/badge/Ejericio%20Grupal%203.0%20-%20green?labelColor=abcdef&cacheSeconds=3200)![Static Badge](https://img.shields.io/badge/Modulo%206%20-%20brown?labelColor=abcdef&cacheSeconds=3200)
 
-<span style="color:red">**Ejercicio Grupal 4 Modulo 5**</span>
 
 ## **Integrantes :**
 

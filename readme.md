@@ -69,8 +69,8 @@ Crear un proyecto MVC con Spring Tool Suite (STS)
 
 https://www.youtube.com/watch?v=eMG9qi061D8
 
-
-
+\
+\
 
 ![Static Badge](https://img.shields.io/badge/Ejericio%20Grupal%203.0%20-%20green?labelColor=abcdef&cacheSeconds=3200)![Static Badge](https://img.shields.io/badge/Modulo%206%20-%20brown?labelColor=abcdef&cacheSeconds=3200)
 

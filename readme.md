@@ -1,22 +1,23 @@
 | Módulo |  |  | Nivel de Dificultad |  |
 | :---: | :---: | :---: | :---: | :---: |
-| $\begin{array}{l}\text { Desarrollo de aplicaciones JEE conSpring } \\ \text { Framework }\end{array}$ |  |  | Medio |  |
+|Desarrollo de aplicaciones JEE conSpring } |  |  | Medio |  |
 | Tema: El Framework Spring MVC |  |  | Creación de un proyecto Spring MVC |  |
 | Intención del aprendizaje o aprendizaje esperado: |  |  |  |  |
-| $\begin{array}{l}\text { Configura un proyecto Java utilizando el gestor Maven e incorporando las dependencias } \\ \text { requeridas para obtener un proyecto Spring Framework MVC. } \\ \text { Codifica vistas y controladores que permitan el despliegue de contenidos estáticos para } \\ \text { permitir la navegación web de un usuario. }\end{array}$ |  |  |  |  |
+| Configura un proyecto Java utilizando el gestor Maven e incorporando las dependencias requeridas para obtener un proyecto Spring Framework MVC.  \\ Codifica vistas y controladores que permitan el despliegue de contenidos estáticos para permitir la navegación web de un usuario.|  |  |  |  |
 | Planteamiento del Problema: |  |  |  |  |
-| $\begin{array}{l}\text { Una empresa de asesorías en prevención de riesgos necesita contar con un sistema de información } \\ \text { que le permita administrar los principales procesos que se llevan a cabo en ella día a día. } \\ \text { Hasta el momento se han definido las siguientes funcionalidades en el sistema: }\end{array}$ |  |  |  |  |
-|  |  |  |  |  |
+| Una empresa de asesorías en prevención de riesgos necesita contar con un sistema de información } \\  que le permita administrar los principales procesos que se llevan a cabo en ella día a día. \\ 
+Hasta el momento se han definido las siguientes funcionalidades en el sistema: | 
+  |  |
 | ID | Nombre | Detalle |  | Actor(es) |
-| 1 | Inicio | $\begin{array}{l}\text { Página } \\ \text { informa } \\ \text { que se }\end{array}$ | $\begin{array}{l}\text { nicio del portal con } \\ \text { elevante del proyecto } \\ \text { alizando. }\end{array}$ | $\begin{array}{l}\text { Cliente } \\ \text { Administrativo } \\ \text { Profesional }\end{array}$ |
-| 2 | Contacto | $\begin{array}{l}\text { Formul } \\ \text { consult }\end{array}$ | contacto para realizar | Cliente |
-| 3 | Crear Capacitación | $\begin{array}{l}\text { Formul } \\ \text { capacit }\end{array}$ | $\begin{array}{l}\text { para crear una } \\ \text { n el sistema. }\end{array}$ | Cliente |
-| 4 | Listar Capacitaciones | Listado | acitaciones registradas. | Cliente |
-| 5 | Listado de Usuarios | $\begin{array}{l}\text { Listado } \\ \text { platafo }\end{array}$ | usuarios existentes en | Administrativo |
-| 6 | Crear Usuario | $\begin{array}{l}\text { Formul } \\ \text { usuario }\end{array}$ | $\begin{array}{l}\text { e permitirá crear un } \\ \text { ema. }\end{array}$ | Administrativo |
-| 7 | Editar Cliente | $\begin{array}{l}\text { Formul } \\ \text { datos d }\end{array}$ | $\begin{array}{l}\text { e permite modificar los } \\ \text { uario de tipo cliente. }\end{array}$ | Administrativo |
-| 8 | Editar Administrativo | $\begin{array}{l}\text { Formul } \\ \text { datos } \\ \text { adminis }\end{array}$ | $\begin{array}{l}\text { e permite modificar los } \\ \text { In usuario de tipo }\end{array}$ | Administrativo |
-| 9 | Editar Profesional | $\begin{array}{l}\text { Formul } \\ \text { datos } \\ \text { profesi }\end{array}$ | $\begin{array}{l}\text { e permite modificar los } \\ \text { in usuario de tipo }\end{array}$ | Administrativo |
+| 1 | Inicio | Pagina de inicio del portal con informacion | relevante del  proyecto que se está realizando. | Cliente  Administrativo Profesional  |
+| 2 | Contacto | Formulario de contacto para realizar consultas.|| Cliente |
+| 3 | Crear Capacitacion | Formulario para crear una capacitacion | en el sistema | Cliente |
+| 4 | Listar Capacitaciones | Listado de capacitaciones| registradas. | Cliente |
+| 5 | Listado de Usuarios | Listado con los usuarios existentes | en plataforma | Administrativo |
+| 6 | Crear Usuario | Formulario que permitira crear | un usuario en el sistema | Administrativo |
+| 7 | Editar Cliente | Formulario que permite modificar los datos| de un usuario de tipo Cliente | Administrativo |
+| 8 | Editar Administrativo | Formulario que permite modificar los datos | de un usuario de tipo Administrativo | Administrativo |
+| 9 | Editar Profesional | Formulario que permite modificar los datos | de un usuario de tipo Profesional | Administrativo |
 
 
 | 10 | Listado Visitas | $\begin{array}{l}\text { Lista de todas las visitas realizadas a } \\ \text { cada uno de los clientes. Además, } \\ \text { posee un formulario que permite } \\ \text { agregar nuevas visitas a sistema. }\end{array}$ | Profesional |
@@ -67,4 +68,35 @@ http://www.jtech.ua.es/j2ee/publico/spring-2012-13/sesion03-apuntes.html
 Crear un proyecto MVC con Spring Tool Suite (STS)
 
 https://www.youtube.com/watch?v=eMG9qi061D8
+
+
+![Static Badge](https://img.shields.io/badge/Ejericio%20Grupal%203.0%20-%20green?labelColor=abcdef&cacheSeconds=3200)![Static Badge](https://img.shields.io/badge/Modulo%206%20-%20brown?labelColor=abcdef&cacheSeconds=3200)
+
+<span style="color:red">**Ejercicio Grupal 4 Modulo 5**</span>
+
+## **Integrantes :**
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Angelica%20-%20Romero%20-%20violet?cacheSeconds=3200" alt="Texto alternativo 1"></td>
+    <td><img src="https://img.shields.io/badge/Bastian%20-%20Mariangel%20-%20red?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+    <td><img src="https://img.shields.io/badge/Ivan%20-%20Mieres%20-%20green?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+    <td><img src="https://img.shields.io/badge/Patricio%20-%20Bonnin%20-%20brown?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+    <td><img src="https://img.shields.io/badge/Roberto%20-%20Rivas%20-%20blue?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+
+  </tr>
+</table>
+
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_3.0_Modulo_6/assets/131497718/fe1d8081-00ac-49b8-99c3-08004a8679c5)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_3.0_Modulo_6/assets/131497718/8da02ac5-7079-49fe-8cf7-049a9812d460)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_3.0_Modulo_6/assets/131497718/1a4daa25-32c5-4bca-9701-0922ec8317b3)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_3.0_Modulo_6/assets/131497718/9d219dba-5975-425d-9373-4db604391928)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_3.0_Modulo_6/assets/131497718/5d066a33-ccfc-48dc-85ed-efc6ee68ab05)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_3.0_Modulo_6/assets/131497718/7403d422-90f3-4751-9056-b444d4a03034)
+
+
+
+
+
+
 
